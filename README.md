@@ -1,4 +1,8 @@
-# Tower Defense (Unity)
+# Tower Defense Ice vs. Fire (Unity C#)
+
+<h1 align="center">
+  <img alt="Tower Defense" title="TD-Ice-vs-Fire" src="./ingame.png" width="800"/>
+</h1>
 
 - Trabalho avaliativo para o minicurso de Unity Básico.
 - Curso de Ciências da Computação na Universidade Federal de Jataí.
